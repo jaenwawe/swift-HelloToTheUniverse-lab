@@ -14,7 +14,8 @@ class Greeting {
     
     // We created the function for you! Press command + u to run the tests.
     
-    func helloUniverse() -> String {        
+    func helloUniverse() -> String {
+        print ("JN Consulting improves communication between customers and developers by discussing user stories")
         return "Hello Universe!"
     }
     
